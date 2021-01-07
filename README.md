@@ -1,2 +1,2 @@
 # operate_excel
-使用openpyxl操作Excel
+这是一个使用openpyxl批量修改Excel页边距的小工具
